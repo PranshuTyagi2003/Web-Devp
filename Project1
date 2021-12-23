@@ -1,0 +1,150 @@
+<!--index.html-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>A Tribute Page To Mark Zuckerberg</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <img src="logo.svg" alt="Facebook Logo" width="222px"  class="logo">
+            <strong>
+                Mark Zuckerberg
+            </strong>
+        </nav>
+    </header>
+    <div class="container">
+        <div class="image">
+            <img src="https://tse4.mm.bing.net/th?id=OIP.uW22k9mAbICyrUk-o2Yx8AHaE8&pid=Api&P=0&w=226&h=151" alt=""
+                width="500px">
+        </div>
+        <hr>
+        <div class="main">
+            <h5>10 Things you dont know about Mark Zuckerberg</h5>
+            <p>
+            <ol>
+                <li>He nearly worked for Microsoft.</li>
+                <li>He has unexpected pop culture tastes.</li>
+                <li>His eyesight is the reason behind Facebook’s color scheme.</li>
+                <li>He wasn’t always a high-level coder.</li>
+                <li>He turned down many offers to sell Facebook.</li>
+                <li>He’s an admirer of Steve Jobs.</li>
+                <li>He can laugh at himself.</li>
+                <li> A dozen people help him manage his Facebook page.</li>
+                <li>He’s very protective of his privacy.</li>
+                <li>He seems taller than he really is in photos.</li>
+            </ol>
+            </p>
+        </div>
+        <div class="last">
+            To learn more about Mark <a href="https://en.wikipedia.org/wiki/Mark_Zuckerberg" target="_blank">Click</a> here to go on WikiPedia. 
+        </div>
+    </div>
+
+    <footer>
+        <p>Made by @Pranshu Tyagi November 2021</p>
+    </footer>
+</body>
+
+</html>
+
+
+
+<!--logo.svg-->
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1022.51 360"><defs><style>.cls-1{fill:#1877F2;}</style></defs><title>FBWordmark_Hex-RGB-1024</title><path class="cls-1" d="M166.43,126.68c-9.65,0-12.44,4.28-12.44,13.72v15.66h25.74l-2.58,25.3H154v76.78H123.11V181.36H102.3v-25.3h20.81V140.83c0-25.52,10.29-39,39-39a146.17,146.17,0,0,1,18,1.07v23.81Z"/><path class="cls-1" d="M181.87,203.88c0-28.52,13.51-50,41.82-50,15.44,0,24.87,7.94,29.38,17.8V156.06h29.59V258.14H253.07V242.7c-4.29,9.87-13.94,17.59-29.38,17.59-28.31,0-41.82-21.45-41.82-50Zm30.88,6.87c0,15.22,5.57,25.3,19.94,25.3,12.66,0,19.09-9.22,19.09-23.8V202c0-14.58-6.43-23.8-19.09-23.8-14.37,0-19.94,10.08-19.94,25.3Z"/><path class="cls-1" d="M347,153.91c12,0,23.37,2.58,29.59,6.86l-6.86,21.88a48.6,48.6,0,0,0-20.59-4.72c-16.73,0-24,9.65-24,26.17v6c0,16.52,7.29,26.17,24,26.17a48.6,48.6,0,0,0,20.59-4.72l6.86,21.87c-6.22,4.29-17.58,6.87-29.59,6.87-36.25,0-52.76-19.52-52.76-50.83v-4.72C294.24,173.43,310.75,153.91,347,153.91Z"/><path class="cls-1" d="M380.66,211v-9c0-28.95,16.51-48,50.19-48,31.74,0,45.68,19.3,45.68,47.61v16.3h-65c.65,13.94,6.87,20.16,24,20.16,11.59,0,23.81-2.36,32.82-6.22L474,253c-8.15,4.3-24.88,7.51-39.67,7.51C395.24,260.5,380.66,241,380.66,211Zm30.88-13.3h37.32v-2.57c0-11.15-4.5-20-18-20C416.91,175.14,411.54,183.94,411.54,197.66Z"/><path class="cls-1" d="M591,210.32c0,28.52-13.72,50-42,50-15.44,0-26.16-7.72-30.45-17.59v15.44H489.39V104.8L520.27,102v68.2c4.5-9,14.37-16.3,28.74-16.3,28.31,0,42,21.45,42,50Zm-30.88-7.08c0-14.37-5.57-25.09-20.37-25.09-12.66,0-19.52,9-19.52,23.59v10.72c0,14.58,6.86,23.59,19.52,23.59,14.8,0,20.37-10.72,20.37-25.09Z"/><path class="cls-1" d="M601.33,209.67v-5.14c0-29.39,16.73-50.62,50.83-50.62S703,175.14,703,204.53v5.14c0,29.38-16.73,50.62-50.83,50.62S601.33,239.05,601.33,209.67Zm70.78-7.29c0-13.51-5.58-24.23-20-24.23s-19.95,10.72-19.95,24.23v9.44c0,13.51,5.58,24.23,19.95,24.23s20-10.72,20-24.23Z"/><path class="cls-1" d="M713.27,209.67v-5.14c0-29.39,16.73-50.62,50.83-50.62s50.83,21.23,50.83,50.62v5.14c0,29.38-16.73,50.62-50.83,50.62S713.27,239.05,713.27,209.67Zm70.78-7.29c0-13.51-5.58-24.23-19.95-24.23s-19.94,10.72-19.94,24.23v9.44c0,13.51,5.57,24.23,19.94,24.23s19.95-10.72,19.95-24.23Z"/><path class="cls-1" d="M857.39,204.74l30.45-48.68h32.81l-31.95,50.4,33.24,51.68H889.13l-31.74-50v50H826.5V104.8L857.39,102Z"/></svg>
+
+
+
+<!--style.css-->
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 150vh;
+    /* background-color: white; */
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.71wTiYJFeY52e-S3F2rAVQHaEK&pid=Api&P=0&w=313&h=177');
+}
+
+header{
+    background-color: rgb(218, 221, 30);
+    color: black;
+    height: 15vh;
+}
+
+header nav strong{
+    text-align: center;
+    padding: 20px 0px 3px 0px;
+    margin: 435px;
+    top: 100px;
+    /* float: right; */
+    /* color: white; */
+    font-size: xxx-large;
+}
+
+.image{
+    position: absolute;
+    padding: 70px 0px 0px 600px;
+    margin: 0px 0px 0px 0px;
+    top: 200px;
+}
+
+.main{
+    text-align: center;
+    padding: 600px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    /* background-color: aqua; */
+}
+
+ol {
+    font-size: large;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    padding: 16px 0px 0px 0px;
+    background-color: aqua;
+}
+
+h5{
+    text-decoration: underline;
+    font-size: xx-large;
+    background-color: aquamarine;
+
+}
+
+li{
+    padding: 14px 0px 0px 0px;
+    /* justify-content: left; */
+}
+
+.last{
+    font-size: x-large;
+    text-align: center;
+    background: yellow;
+    border: 2px solid black;
+}
+
+h1{
+    font-size: x-large;
+}
+
+.logo{
+    display: inline;
+}
+
+footer{
+    height: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
